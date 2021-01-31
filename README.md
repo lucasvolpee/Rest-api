@@ -1,10 +1,8 @@
 # Rest-api
 
-#### Blog simples feito utilizando:
+#### Rest api simples feita utilizando:
 - Nodejs
 - Express
 - MongoDB
-- Handlebars
-- Bootstrap
 
-Projeto realizado com a finalidade de aprender e estudar desenvolvimento back-end. Foi feito CRUD,utilização de middlewares, integração com banco de dados,sistema de registro e login,além da utilização da arquitetura MVC.
+Projeto realizado com a finalidade de aprender sobre apis e o padrão REST,bem como estudar e praticar mais desenvolvimento back-end.
